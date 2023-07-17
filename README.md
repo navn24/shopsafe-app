@@ -2,7 +2,7 @@
 
 The Shop Safe app provides users a company-review service (similar to yelp), geared towards safety in the midst of the covid-19 pandemic, by crowdsourcing reviews on shopping locations across the United States. 
 
-See the backend api developed for this app [here](https://github.com/navn24/ShopSafe_API_Public) and download the app on the play store [here](https://play.google.com/store/apps/details?id=com.navn.safeshop)
+See the backend api developed for this app [here](https://github.com/navn24/shopsafe-api) and download the app on the play store [here](https://play.google.com/store/apps/details?id=com.navn.safeshop)
 
 ## Features
 - Create and manage an account
